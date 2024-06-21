@@ -1,4 +1,4 @@
-# Arctic-Tundra
+Arctic-Tundra
 #TestRepo
 
 ## Editing the file
