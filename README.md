@@ -1,5 +1,3 @@
-Arctic-Tundra
-
 # TestRepo
 
 ## Editing the file
